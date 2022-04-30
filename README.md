@@ -1,3 +1,3 @@
-# Conta-Pixel-e-Ordena
+# Pixel Ordering and Counting
 
 Este algoritmo é utilizado para contar a quantidade de pixels na imagem escolhida e então ordenar o número de pixels de forma crescente.
